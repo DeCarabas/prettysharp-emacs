@@ -18,7 +18,7 @@
 ;; with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ;; Author: John Doty
-;; Version: 0.7.0
+;; Version: 1.0.0
 ;; Keywords: convenience wp edit csharp
 ;; URL: https://github.com/decarabas/prettysharp
 ;;
