@@ -36,7 +36,7 @@
   :type 'string
   :group 'prettysharp)
 
-(defcustom prettysharp-show-errors 'buffer
+(defcustom prettysharp-show-errors nil
   "Where to display prettysharp error output.
 
 It can either be displayed in its own buffer, in the echo area,
